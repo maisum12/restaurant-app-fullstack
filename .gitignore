@@ -1,0 +1,6 @@
+node_modules/ 
+server/node_modules/ 
+myapp/node_modules/ 
+server/.env 
+myapp/.expo/ 
+.DS_Store 
